@@ -1,0 +1,12 @@
+<RCC>
+	<qresource prefix="themes">
+		<file>vms 2.png</file>
+		<file>vms 3.png</file>
+		<file>vms 4.png</file>
+		<file>vms 5.png</file>
+	</qresource>
+	<qresource prefix="logos">
+		<file alias="taskbar_icon.png">VMS2.png</file>
+		<file alias="image_icon.png">VMS_def.png</file>
+	</qresource>
+</RCC>
