@@ -1,7 +1,7 @@
 # Visitor-Management-System
 A Visitor Management System designed for Military HeadQuarters
 
-![Main Interface](https://github.com/jacobay43/Visitor-Management-System/blob/main/vms1.jpg?raw=true)
+![Main Interface](https://github.com/jacobay43/Visitor-Management-System/blob/main/vms1.JPG?raw=true)
 
 Features:
 - Spreadsheet Data Logging according to timestamp
